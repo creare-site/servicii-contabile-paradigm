@@ -1,17 +1,17 @@
-﻿# [Site Pensiune Paradigm](https://site-pensiune-paradigm.websitemarket.ro/) - Site Prezentare
+﻿# [Servicii Contabile Paradigm](https://servicii-contabile-paradigm.websitemarket.ro/) - Site Prezentare
 
 Site de pensiune, un produs [WebsiteMarket](https://websitemarket.ro)
 
 <br />
 
-![Site Pensiune Paradigm - Prezentare in format Gif.](https://raw.githubusercontent.com/creare-site/static/master/produse/site-pensiune-paradigm-intro.gif)
+![Servicii Contabile Paradigm - Prezentare in format Gif.](https://raw.githubusercontent.com/creare-site/static/master/produse/servicii-contabile-paradigm-intro.gif)
 
 <br />
 
 ## Informatii produs
 
 - Site de pensiune - Design Paradigm
-- Live [DEMO](https://site-pensiune-paradigm.websitemarket.ro)
+- Live [DEMO](https://servicii-contabile-paradigm.websitemarket.ro)
  
 <br />
 
@@ -27,8 +27,8 @@ Site de pensiune, un produs [WebsiteMarket](https://websitemarket.ro)
 Acesta website este o aplicatie JAMstack. Pentru a genera website-ul local urmati instructiunile:
 
 ```
-$ git clone https://github.com/creare-site/site-pensiune-paradigm.git
-$ cd site-pensiune-paradigm
+$ git clone https://github.com/creare-site/servicii-contabile-paradigm.git
+$ cd servicii-contabiles-paradigm
 $ yarn # instalare module
 $ yarn dev # mod editare live
 $ yarn build # generare site productie
@@ -43,4 +43,4 @@ Prin Email **hello [@ ] websitemarket.ro** sau pe LIVE chat-ul [Discord](https:/
 <br />
 
 ---
-[Site Pensiune Paradigm](https://site-pensiune-paradigm.websitemarket.ro/) un produs **WebsiteMarket**
+[Servicii Contabile Paradigm](https://servicii-contabile-paradigm.websitemarket.ro/) un produs **WebsiteMarket**
