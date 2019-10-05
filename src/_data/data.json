@@ -1,0 +1,26 @@
+{
+    "copy"           : "WebsiteMarket", 
+    "email"          : "hello@websitemarket.ro",
+    "phone"          : "0766612322",
+    "design"         : "Paradigm by Html5 UP",
+
+    "app_title"      : "Site Servicii Contabile",
+
+    "seo_title"      : "Site Servicii Contabile - Design Paradigm | WebsiteMarket",
+    "seo_desc"       : "Site servicii contabile - site prezentare, un produs open-source WebsiteMarket.",
+
+    "service"        : "https://websitemarket.ro", 
+
+    "product"        : "https://websitemarket.ro/site-prezentare/servicii-contabile-paradigm", 
+    "github"         : "https://github.com/creare-site/servicii-contabile-paradigm",
+    "github_group"   : "https://github.com/creare-site/site-prezentare/",
+
+    "blog"           : "https://blog.websitemarket.ro/",
+    "facebook"       : "https://www.facebook.com/Websitemarketro/",
+    "twitter"        : "https://twitter.com/websitemarketro/",
+    "instagram"      : "https://websitemarket.ro",
+    "support"        : "https://websitemarket.ro",
+    "discord"        : "https://discord.gg/MFRQmAk",
+
+    "LAST_KEY" : "NA"
+}
